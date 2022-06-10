@@ -1,4 +1,5 @@
 // what is protoTypical inheritance
+// Reference Link: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
 
 // Object Prototype
 var cat = {
